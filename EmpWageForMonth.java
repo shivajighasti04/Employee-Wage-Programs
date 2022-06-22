@@ -3,7 +3,7 @@ package com.bridgelabz.employeewagecomp;
 /**
  * Program to Calculate Wages of Employee for a Month assuming 20 Working Days In a Month.
  * 
- * @author S A H A R A
+ * @author Shivaji Ghasti
  *
  */
 public class EmpWageForMonth {
